@@ -1,0 +1,41 @@
+{
+  "personal": {
+    "name": "LEBRIJI Sallam",
+    "title": { "en": "Data Scientist & Full Stack Developer", "fr": "Data Scientist & Développeur Full Stack" },
+    "tagline": { "en": "I transform raw data into meaningful insights.", "fr": "Je transforme les données brutes en insights exploitables." },
+    "bio": {
+      "en": "Passionate Data Scientist with 4+ years of experience in full stack development, deep learning, and AI development. I specialize in building scalable data solutions that drive business growth and innovation.",
+      "fr": "Data Scientist passionné avec plus de 4 ans d'expérience en développement full stack, deep learning et développement IA. Je conçois des solutions data évolutives qui stimulent la croissance et l'innovation."
+    },
+    "location": { "en": "Meknes, Morocco", "fr": "Meknès, Maroc" },
+    "email": "sallam.lebriji@gmail.com",
+    "phone": "+212(0) 7 70 95 83 55",
+    "avatar": "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "position": { "en": "Developer", "fr": "Développeur" },
+      "company": { "en": "Faculty of Legal, Economic and Social Sciences (FSJES)", "fr": "Faculté des sciences juridiques, économiques et sociales (FSJES)" },
+      "period": { "en": "2021 - Present", "fr": "2021 - Présent" },
+      "description": {
+        "en": "Working on academic and administrative systems, building features end-to-end from data to UI.",
+        "fr": "Travail sur des systèmes académiques et administratifs, réalisation de fonctionnalités de bout en bout, des données à l'interface."
+      }
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": { "en": "Master in Data Science", "fr": "Master en Data Science" },
+      "school": { "en": "Faculty of Science Rabat", "fr": "Faculté des Sciences Rabat" },
+      "year": "2025"
+    },
+    {
+      "id": 2,
+      "degree": { "en": "Professional Bachelor's degree", "fr": "Licence Professionnelle" },
+      "school": { "en": "Higher School of Technology Sale", "fr": "École Supérieure de Technologie Salé" },
+      "year": "2022"
+    }
+  ]
+}

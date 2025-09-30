@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "name": "Programming",
+      "skills": [
+        { "name": "Python", "level": 95 },
+        { "name": "JAVA", "level": 85 },
+        { "name": "SQL", "level": 90 },
+        { "name": "JavaScript", "level": 75 }
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "skills": [
+        { "name": "Scikit-Learn", "level": 92 },
+        { "name": "TensorFlow", "level": 88 },
+        { "name": "PyTorch", "level": 85 },
+        { "name": "Keras", "level": 87 }
+      ]
+    },
+    {
+      "name": "Visualization",
+      "skills": [
+        { "name": "Power BI", "level": 83 },
+        { "name": "Tableau", "level": 80 },
+        { "name": "Matplotlib", "level": 90 }
+      ]
+    },
+    {
+      "name": "DevOps & Management project",
+      "skills": [
+        { "name": "Docker", "level": 78 },
+        { "name": "Jira Software", "level": 75 },
+        { "name": "Tello", "level": 80 }
+      ]
+    }
+  ]
+}

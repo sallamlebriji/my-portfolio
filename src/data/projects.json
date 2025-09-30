@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": { "en": "Stock Management System", "fr": "Système de gestion de stock" },
+      "description": {
+        "en": "Development of a stock management system with advanced analytics features (inventory tracking, low-stock alerts, dynamic reporting).",
+        "fr": "Développement d'un système de gestion de stock avec des fonctionnalités d'analytics avancées (suivi d'inventaire, alertes de rupture, rapports dynamiques)."
+      },
+      "image": "https://images.pexels.com/photos/4481538/pexels-photo-4481538.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Flask", "MySQL", "Pandas"],
+      "github": "https://github.com/example/stock-management",
+      "demo": "https://stock-management-demo.example.com",
+      "category": { "en": "Management Application", "fr": "Application de gestion" }
+    },
+    {
+      "id": 2,
+      "title": { "en": "Student Management Application", "fr": "Application de gestion des étudiants" },
+      "description": {
+        "en": "Analysis and design of an application to manage student information (registrations, grades, attendance, custom reports).",
+        "fr": "Analyse et conception d'une application pour gérer les informations des étudiants (inscriptions, notes, présence, rapports personnalisés)."
+      },
+      "image": "https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Java", "Spring Boot", "PostgreSQL", "Thymeleaf"],
+      "github": "https://github.com/example/student-management",
+      "demo": "https://student-management-demo.example.com",
+      "category": { "en": "Management Application", "fr": "Application de gestion" }
+    },
+    {
+      "id": 3,
+      "title": { "en": "Housing Management Application", "fr": "Application de gestion immobilière" },
+      "description": {
+        "en": "Development of a housing management application with .NET (rental management, payment tracking, interactive dashboard).",
+        "fr": "Développement d'une application de gestion immobilière avec .NET (gestion des locations, suivi des paiements, tableau de bord interactif)."
+      },
+      "image": "https://images.pexels.com/photos/7599735/pexels-photo-7599735.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": [".NET", "C#", "SQL Server", "Entity Framework"],
+      "github": "https://github.com/example/housing-management",
+      "demo": "https://housing-management-demo.example.com",
+      "category": { "en": "Management Application", "fr": "Application de gestion" }
+    },
+    {
+      "id": 4,
+      "title": { 
+        "en": "Sentiment Analysis of Supporters during Moroccan Matches – FIFA World Cup Qatar 2022", 
+        "fr": "Analyse des sentiments des supporters lors des matchs du Maroc – Coupe du Monde Qatar 2022" 
+      },
+      "description": {
+        "en": "Development of a sentiment analysis model applied to supporters’ reactions during Moroccan matches at the FIFA World Cup Qatar 2022. The project analyzes tweets, comments, and posts to detect emotional patterns (joy, anger, disappointment, excitement) and measure overall fan sentiment throughout the tournament.",
+        "fr": "Développement d’un modèle d’analyse des sentiments appliqué aux réactions des supporters lors des matchs du Maroc à la Coupe du Monde Qatar 2022. Le projet analyse les tweets, commentaires et publications pour détecter les émotions (joie, colère, déception, excitation) et mesurer le sentiment global des fans tout au long du tournoi."
+      },
+      "image": "https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "NLTK", "Scikit-Learn", "TensorFlow", "Matplotlib"],
+      "github": "https://github.com/example/morocco-fans-sentiment-analysis",
+      "demo": "https://morocco-fans-sentiment-demo.example.com",
+      "category": { "en": "Natural Language Processing", "fr": "Traitement du langage naturel" }
+    },
+    {
+      "id": 5,
+      "title": { "en": "Heart Attack Prediction", "fr": "Prédiction d'infarctus" },
+      "description": {
+        "en": "Prediction of whether a patient is likely to have a heart attack using machine learning algorithms such as KNN, Logistic Regression, and Decision Trees.",
+        "fr": "Prédiction de la probabilité d'un infarctus chez un patient à l'aide d'algorithmes de machine learning tels que KNN, régression logistique et arbres de décision."
+      },
+      "image": "https://images.pexels.com/photos/6129059/pexels-photo-6129059.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["Python", "Scikit-Learn", "Pandas", "Matplotlib"],
+      "github": "https://github.com/example/heart-attack-prediction",
+      "demo": "https://heart-attack-demo.example.com",
+      "category": { "en": "Machine Learning", "fr": "Machine Learning" }
+    },
+    {
+      "id": 6,
+      "title": { "en": "Car Rental Application (MERN)", "fr": "Application de location de voitures (MERN)" },
+      "description": {
+        "en": "Full-stack car rental application built with MERN stack, allowing users to browse available cars, make reservations, and manage bookings in real time.",
+        "fr": "Application full-stack de location de voitures construite avec la stack MERN, permettant de parcourir les voitures disponibles, de réserver et de gérer les locations en temps réel."
+      },
+      "image": "https://images.pexels.com/photos/4489733/pexels-photo-4489733.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["MongoDB", "Express.js", "React", "Node.js"],
+      "github": "https://github.com/example/car-rental-mern",
+      "demo": "https://car-rental-demo.example.com",
+      "category": { "en": "Web Application", "fr": "Application web" }
+    }
+  ]
+}
