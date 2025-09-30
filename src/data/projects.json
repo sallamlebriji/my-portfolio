@@ -7,7 +7,7 @@
         "en": "Development of a stock management system with advanced analytics features (inventory tracking, low-stock alerts, dynamic reporting).",
         "fr": "Développement d'un système de gestion de stock avec des fonctionnalités d'analytics avancées (suivi d'inventaire, alertes de rupture, rapports dynamiques)."
       },
-      "image": "https://images.pexels.com/photos/4481538/pexels-photo-4481538.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image": "https://images.pexels.com/photos/7599735/pexels-photo-7599735.jpeg?auto=compress&cs=tinysrgb&w=600",
       "technologies": ["Python", "Flask", "MySQL", "Pandas"],
       "github": "https://github.com/example/stock-management",
       "demo": "https://stock-management-demo.example.com",
